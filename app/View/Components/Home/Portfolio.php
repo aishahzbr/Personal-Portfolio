@@ -46,6 +46,13 @@ class Portfolio extends Component
                 'image' => url('/img/portfolio.png'),
                 'github' => 'https://github.com/aishahzbr/Personal-Portfolio'
             ],
+
+            [
+                'category' => ['Android Studio', 'Java'],
+                'title' => 'Recipe Generator Mobile App For Malaysian Dishes',
+                'image' => url('/img/recipe1.jpg'),
+                'github' => 'https://github.com/aishahzbr/Malaysian-Recipe-Generator'
+            ],
             
         ];
 
